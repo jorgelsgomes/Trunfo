@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trunfo/static/css/main.14c7f887.css",
+    "main.js": "/Trunfo/static/js/main.43a0cfbb.js",
+    "index.html": "/Trunfo/index.html",
+    "main.14c7f887.css.map": "/Trunfo/static/css/main.14c7f887.css.map",
+    "main.43a0cfbb.js.map": "/Trunfo/static/js/main.43a0cfbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14c7f887.css",
+    "static/js/main.43a0cfbb.js"
+  ]
+}

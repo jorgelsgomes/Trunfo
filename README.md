@@ -9,4 +9,4 @@
   * Visualizar todas as cartas que foram adicionadas ao baralho;
   
   Test agora!
-  
+  https://jorgelsgomes.github.io/Trunfo/
